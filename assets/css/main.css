@@ -1,0 +1,1009 @@
+p {
+    margin-top: 0;
+    margin-bottom: 0rem !important;
+}
+.nav-link {
+    color: #081c35!important;
+}
+.nav-color {
+    display: grid;
+    gap: 1rem;
+    padding: 0px 5rem;
+    grid-template-columns: repeat(3, 1fr);
+    width: 100%;
+    background-color: #c1d3e8;
+}
+.nav-item a {
+    font-size: 19px;
+    font-family: BebasNeue;
+    color: white;
+    font-weight: 600;
+    color: black;
+}
+.site-map {
+    margin-top: 0.3rem!important;
+    margin-bottom: 0.3rem!important;
+    list-style: none;
+}
+.item-color img {
+    width: 25px;
+}
+.item-color a {
+    width: 100%;
+    color: #081c35;
+    list-style: none;
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 15px;
+    padding-top: 3px;
+   
+}
+
+.main-logo {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    background-color: #081c35;
+}
+.main-logo__item {
+    margin-bottom: -8px;
+}
+.main-logo__item img {
+    margin-bottom: 1rem;
+    width: 180px;
+    height: 87px;
+    margin-top: 1rem;
+}
+.nav-item {
+    margin-left: 80px;
+}
+
+
+
+.navbar-main{
+    background-color: white !important;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+.main-banner__title p {
+    font-weight: 600;
+    margin-right: 2rem;
+     margin-left: 127px;
+    margin-bottom: .5rem;
+    margin-top: 5.5rem;
+    font-size: 35px;
+    font-family: BebasNeue!important;
+    color: white;
+    text-transform: uppercase;
+    z-index: 1 ;
+}
+.main-banner-img img {
+    position: relative;
+    width: 100%;
+    height: 42rem;
+    object-fit: cover;
+}
+
+.text_2{
+        position: absolute;
+        z-index: 1;
+        color: white;
+        margin-left: 127px;
+        margin-top: 10rem;
+}
+.text_1-conductores{
+    position: absolute;
+    z-index: 1;
+    color: white;
+    margin-left: 127px;
+    margin-top: 10rem;
+}
+.text_2-conductores{
+        position: absolute;
+        z-index: 1;
+        color: white;
+        margin-left: 127px;
+        margin-top: 18rem;
+}
+.boton_banner{
+    position: absolute;
+    z-index: 1;
+    background-color: white;
+    width: 191px;
+    margin-top: 2rem;
+    margin-left: 8rem;
+    border-radius: 21px;
+}
+
+.text-descuento p {
+        color: #081c35;
+        font-size: 27px;
+        font-family: BebasNeue!important;
+        font-weight: 300;
+        text-align: center;
+        margin-bottom: 0.5rem;
+        padding: 14px;
+        margin-top: -13px;
+   
+}
+.slick-arrow{
+    display: none;
+}
+.main-footer-final {
+    padding-top: 2rem;
+    width: 100%;
+    background-color: #081c35;
+    display: flex;
+    text-align: justify;
+    margin-top: -16px;
+    padding-bottom: 14px;
+}
+.main-footer-final_item {
+    width: 100%;
+    height: 10rem;
+}
+.main-footer-final_text p {
+    padding-top: 0.3rem;
+    font-size: 17px;
+    padding-left: 6rem;
+    color: white;
+    line-height: 22px;
+}
+.main-footer-final_item {
+    width: 100%;
+    height: 10rem;
+}
+.main-footer-final_map {
+    list-style: none;
+    color: white;
+    font-size: 20px;
+}
+.main-footer-final_item {
+    width: 100%;
+    height: 10rem;
+}
+.main-footer-final_map {
+    list-style: none;
+    color: white;
+    font-size: 20px;
+}
+.footer-final_descripcion {
+    line-height: 23px;
+}
+.title-foot {
+    color: white;
+    font-size: 13px;
+    font-family: BebasNeue bold;
+    text-transform: uppercase;
+}
+.main-footer-final_site a {
+    text-decoration: none;
+    color: white;
+    font-family: BebasNeue bold;
+    text-transform: uppercase;
+}
+.descrip-foot {
+    color: white;
+    font-size: 18px;
+    font-family: BebasNeue;
+}
+.foot-direcion {
+    color: white;
+    font-size: 18px;
+    font-family: BebasNeue;
+}
+ul.slick-dots {
+    top: 38rem !important;
+}
+.slick-dots li button:before {
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10px;
+    height: 10px;
+    content: "";
+    text-align: center;
+    background-color: white;
+}
+.main-cars__grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+}
+.main-conductores__item {
+    width: 100%;
+}
+.main-conductores__title {
+    text-align: center;
+    font-size: 33px;
+    font-family: BebasNeue;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.main-conductores__title img {
+    width: 100%;
+    height: 38.5rem;
+}
+.media-banner__img-reservaciones img {
+    justify-content: center;
+    width: 100%;
+    height: 45rem;
+}
+.media-banner_item-contacto {
+    width: 100%;
+    padding-bottom: 2rem;
+}
+.media-banner_text-contacto {
+    margin-left: 34rem;
+    margin-top: 6rem;
+    color: white;
+    position: absolute;
+    z-index: 1;
+}
+.media-banner_text-contacto p {
+    margin-bottom: 30px;
+    font-size: 32px;
+    text-transform: uppercase;
+    font-family: BebasNeue;
+    line-height: normal;
+    font-weight: 700;
+}
+
+.media-banner__img-contacto img {
+    width: 100%;
+    height: 30rem;
+    object-fit: cover;
+}
+.main-contacto__grid {
+    display: grid;
+    gap: 1rem;
+    padding: 0px 5rem;
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+    background-color: white;
+    margin-left: -39px;
+}
+.main-contacto__item {
+    width: 100%;
+}
+.main-contacto__img {
+    margin-top: -4rem;
+    width: 100%;
+}
+.main-contacto__img img {
+    width: 30rem;
+    height: 23rem;
+    object-fit: contain;
+
+}
+
+.main-contacto__item {
+    width: 100%;
+}
+.contacto__item {
+    width: 100%;
+    font-size: 17px;
+    font-family: BebasNeue;
+    color: #081c35;
+    list-style: none;
+}
+.item-contacto{
+    text-align: justify;
+    margin-top: -6rem;
+    margin-bottom: 6rem;
+}
+.media-banner_item-reservaciones {
+    width: 100%;
+}
+.media-banner_text-reservaciones {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    color: #081c35;
+    z-index: 1;
+}
+.contact-form-reservaciones {
+    display: grid;
+    gap: 2rem;
+    padding: 0px 0rem;
+    grid-template-columns: repeat(1, 1fr);
+    width: 41%;
+    position: absolute;
+    margin-top: 17rem;
+    margin-left: 30%;
+}
+.form-group_custom{
+    padding: 0px 1rem;
+    margin-bottom: 19px;
+   
+}
+.main-conductores__descripcion p:hover {
+    background-color: white;
+    color: #081c35;
+    transition: all ease-in-out .3s;
+}
+.main-gallery__mask:hover {
+    display: flex;
+    opacity: 1;
+    transition: all ease-in-out .3s;
+}
+.fadeInRight {
+    position: fixed;
+    z-index: 1;
+}
+.form-control{
+    outline-style: none!important;
+    height: 2.2rem!important;
+    width: 100%!important;
+    font-family: lato !important;
+    border-radius: 8px!important;
+    border: #ffffff9e !important;
+    background-color: #ffffff9e!important;
+}
+.buttonform {
+    font-size: 19px!important;
+    font-weight: 500!important;
+    border-radius: 5px!important;
+    font-family: lato!important;
+    background-color: #c1d3e8!important;
+    color: #081c35!important;
+    height: 40px!important;
+    border-style: none!important;
+    outline-style: none!important;
+}
+
+.media-banner_text-reservaciones p {
+    margin-top: 172px;
+    margin-left: 156px;
+    font-size: 34px;
+    font-family: BebasNeue;
+    line-height: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: absolute;
+}
+.main-contacto__item {
+    width: 100%;
+}
+.contact-form {
+    display: grid;
+    gap: 2rem;
+    padding: 0px 0rem;
+    grid-template-columns: repeat(1, 1fr);
+    width: 100%;
+    margin-bottom: 10rem;
+}
+iframe#gmap_canvas {
+    width: 500px;
+    height: 500px;
+}
+.gmap_canvas {
+    overflow: hidden;
+    background: none!important;
+    height: 590px;
+    width: 600px;
+    margin-left: -59px;
+    margin-top: 5rem;
+}
+.gmap_canvas a{
+    display: none;
+}
+.main-servicios {
+    width: 100%;
+}
+
+.main-servicios__item {
+    width: 100%;
+}
+.main-servicios__img img {
+    width: 100%;
+}
+.main-servicios__textos {
+    margin-left: 3rem;
+}
+.main-galeria .main-galeria__item {
+    width: 100%;
+}
+.main-galeria__img img {
+    width: 14rem;
+}
+.main-gallery__mask h2 {
+    color: #081d35;
+    font-weight: 600;
+    font-family: Lato;
+    font-size: 27px;
+}
+.main-gallery__mask {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(255,255,255,.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all ease-in-out .3s;
+}
+.main-galeria__img {
+    position: relative;
+}
+.main-galeria__grid {
+    justify-content: center;
+    display: grid;
+    gap: 1rem;
+    padding: 29px 9rem;
+    grid-template-columns: repeat(4, 1fr);
+    width: 100%;
+    text-align: center;
+}
+.main-servicios__descripcion {
+    text-align: justify;
+    font-size: 18px;
+    font-family: Montserrat;
+    color: #081c35;
+    line-height: 39px;
+}
+.main-servicios__titlle p {
+    font-weight: 500;
+    width: 100%;
+    font-size: 25px;
+    font-family: Montserrat;
+    color: #081c35;
+}
+.main-servicios__grid {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    display: grid;
+    gap: 1rem;
+    padding: 0px 5rem;
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+}
+.site-servios {
+ list-style: none; 
+}
+.reservar-ahora {
+    padding-top: 2rem;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 1rem;
+}
+.reservar-ahora a {
+    background-color: #c1d3e8;
+    font-size: 19px;
+    border-radius: 7px;
+    font-family: BebasNeue;
+    color: #081c35;
+    width: 12rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+.main-conductores__descripcion p {
+    position: inherit !important;
+    padding-top: 1rem;
+    color: white;
+    background: #081c35;
+    font-weight: 700;
+    text-align: center;
+    font-family: BebasNeue;
+    text-transform: uppercase;
+    font-size: 30px;
+    height: 4.5rem;
+    margin: 0;
+}
+.modal-content {
+    height: 25rem;
+    border-radius: 12px;
+}
+.modal-header {
+    background-color: #c1d3e8;
+}
+.modal-header p {
+    font-size: 23px;
+    font-weight: 800;
+    margin-top: 0rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 0px;
+    font-family: lato;
+    text-transform: uppercase;
+}
+.modal-body {
+    background-color: #081c35;
+    font-size: 18px;
+    padding-left: 2rem;
+    font-family: lato;
+    padding-top: 2rem;
+    color: white;
+}
+.modal-footer {
+    justify-content: center;
+    background-color: #081c35;
+    margin-top: -1px;
+}
+.modal-footer a {
+    background-color: #c1d3e8;
+    font-size: 19px;
+    border-radius: 12px;
+    font-family: lato;
+    color: #081c35;
+    width: 9rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+.fadeIn {
+    position: absolute;
+    z-index: 1;
+}
+.main-galery h2{
+    position: absolute;
+}
+.main-galery img{
+    position: relative;
+}
+@media (max-width: 1024px){
+    .nav-item {
+        margin-left: 61px;
+    }
+    .main-footer-final_text p{
+        padding-left: 3rem;
+    }
+    .main-footer-final_item {
+        padding-left: 0px;
+    }
+    .main-footer-final_site a {
+        font-size: 17px;
+    }
+    .media-banner_text-reservaciones p {
+        margin-left: 76px;
+       
+    }
+    .media-banner_text-contacto p {
+        margin-left: -94px;
+    }
+    .main-contacto__grid {
+        text-align: center;
+        display: block;
+        margin: 0px;
+    }
+    .mapouter {
+        margin-left: 11rem;
+    }
+    
+}
+@media (max-width: 768px){
+    .main-footer-final {
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    .media-banner_text-reservaciones p {
+        margin-left: 44px;
+        font-size: 27px;
+    }
+    .item-color a {
+        font-size: 11px;
+    }
+    .nav-color {
+        padding: 0px;
+        
+    }
+    .media-banner_text-contacto p {
+        margin-left: -20rem;
+    }
+    .main-contacto__grid {
+         display:block; 
+       
+}
+.contacto__item {
+    font-size: 24px;
+    text-align: center;
+   
+}
+.main-contacto__img img {
+    margin-left: 79px;
+}
+.mapouter {
+    text-align: -webkit-right !important;
+    margin-left: -16px !important;
+}
+.navbar-toggler {
+    margin-left: 43rem !important;
+}
+.navbar-nav {
+    text-align: center;
+}
+.nav-item a {
+    text-align: center;
+}
+.navbar-nav .dropdown-menu {
+    margin-left: 12rem;
+    margin-right: 12rem;
+}
+.main-servicios__grid {
+    display: block;
+    padding: 7rem;
+    margin-bottom: -7rem;
+    margin-top: -5rem;
+
+}
+
+.main-servicios__titlle p {
+    font-size: 31px;
+    padding: 2rem;
+}
+.main-galeria__grid {
+    padding: 47px 6rem;
+    grid-template-columns: repeat(2, 1fr);
+    
+}
+.main-galeria__img img {
+    width: 19rem;
+}
+.main-servicios__titlle {
+    text-align: center;
+}
+
+}
+@media (max-width: 565px){
+    .navbar-toggler {
+        margin-left: 30rem !important;
+    }
+    .main-banner__title p {
+        margin-left: 55px;
+        margin-top: 8.5rem;
+}
+.text_1-conductores {
+    margin-left: 87px;
+    margin-top: 13rem;
+}
+.text_2-conductores {
+    margin-left: 87px;
+    margin-top: 21rem;
+}
+.text_2 {
+    margin-left: 44px;
+    margin-top: 13rem;
+}
+.main-galeria__img img {
+    width: 15rem;
+}
+.navbar-nav .dropdown-menu {
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+.main-servicios__grid {
+    padding: 3rem;
+    margin-bottom: -4rem;
+    margin-top: -2rem;
+}
+.main-servicios__descripcion {
+    margin-left: -47px;
+}
+.navbar-nav {
+    margin-left: -59px;
+}
+.main-conductores__title img {
+    width: 100%;
+    height: 22.5rem;
+}
+.main-conductores__descripcion p {
+    font-size: 23px;
+}
+.mapouter {
+    text-align: -webkit-right !important;
+    margin-left: -9rem !important;
+}
+.media-banner_text-contacto p {
+    margin-left: -32rem;
+    margin-top: 2rem;
+}
+.main-contacto__img img {
+    margin-left: -30px;
+}
+.item-color{
+    margin-left: -19px;
+    margin-right: -68px;
+}
+.item-color img {
+    width: 18px;
+}
+.item-color img {
+    width: 18px;
+    margin-left: 17px;
+}
+.media-banner_text-reservaciones p {
+    margin-left: 16px;
+    font-size: 29px;
+    margin-top: 122px;
+}
+.form-group {
+    margin-bottom: 1rem;
+    width: 20rem;
+    margin-left: -4rem;
+}
+.form-group_custom {
+    margin-bottom: 1rem;
+    width: 20rem;
+    margin-left: -4rem;
+}
+.main-servicios__titlle {
+    margin-left: -60px;
+}
+}
+@media (max-width: 480px){
+    .navbar-toggler {
+        margin-left: 25rem !important;
+    }
+    .item-color {
+        margin: 0px;
+    }
+    .nav-color {
+        display: block;
+        text-align: center;
+        font-size: 14px;
+    padding: 12px;;
+    }
+    .item-color img {
+        width: 24px;
+        margin-left: 0px;
+    }
+    .item-color a {
+        font-size: 18px;
+    }
+    .item-color a {
+        font-size: 14px;
+    padding: 12px;
+    }
+    .nav-color {
+        margin-bottom: -5px;
+    }
+    .site-map {
+        margin-left: -20px;
+    }
+    .text_2 {
+        margin-left: 17px;
+        margin-top: 13rem;
+    }
+    .main-banner__title p {
+        margin-left: 24px;
+    }
+    .main-galeria__img img {
+        width: 13rem;
+    }
+    .main-banner__title p {
+        margin-left: 59px;
+    }
+    .main-banner__title p {
+        font-size: 29px;
+    }
+    .text_1-conductores {
+        margin-left: 54px;
+        margin-top: 13rem;
+    }
+    .text_2-conductores {
+        margin-left: 54px;
+        margin-top: 21rem;
+    }
+    .media-banner_text-reservaciones p {
+        margin-left: 0px;
+    }
+    .media-banner_text-contacto p {
+        margin-left: -33rem;
+        margin-top: 2rem;
+    }
+    .media-banner_text-contacto p {
+        font-size: 28px;
+    }
+    .main-contacto__img img {
+        margin-left: -76px;
+    }
+    .contacto__item {
+        margin-left: -16px;
+    }
+    .mapouter {
+        width: 528px !important;
+    }
+    .mapouter {
+        text-align: -webkit-right !important;
+        margin-left: -10rem !important;
+    }
+    iframe#gmap_canvas {
+        width: 438px;
+        height: 455px;
+    }
+    .mapouter {
+        margin-bottom: -154px;
+    }
+}
+@media (max-width: 375px){
+    .navbar-toggler {
+        margin-left: 18rem !important;
+    }
+    .form-group {
+        margin-left: -6rem;
+        width: 17rem;
+    }
+    .form-group_custom {
+        margin-bottom: 1rem;
+        width: 17rem;
+        margin-left: -6rem;
+    }
+    .media-banner__img-reservaciones img {
+        justify-content: center;
+        width: 100%;
+        height: 27rem;
+    }
+    .media-banner_text-reservaciones p {
+        margin-left: 16px;
+        font-size: 22px;
+        margin-top: 45px;
+    }
+    .form-control {
+        outline-style: none!important;
+        height: 1.9rem!important;
+        width: 100%!important;
+        font-family: lato !important;
+        border-radius: 8px!important;
+        border: #ffffff9e !important;
+        background-color: #ffffff9e!important;
+    }
+    .contact-form-reservaciones {
+        margin-top: 8rem;
+        margin-left: 36%;
+    }
+    .buttonform {
+        font-size: 16px!important;
+        height: 35px!important;
+    }
+    .main-footer-final_text p {
+        font-size: 14px;
+    }
+    .main-footer-final_map {
+        font-size: 14px;
+        margin-top: 13px;
+    }
+    .main-footer-final_item {
+        padding-left: 0px;
+        margin-left: -15px;
+    }
+    .main-banner__title p {
+        margin-left: 36px;
+    
+    }
+    .main-banner__title p {
+        font-size: 24px;
+    }
+    .main-banner-img img {
+        height: 15rem;
+    }
+    .main-banner__title p {
+        margin-left: 55px;
+        margin-top: 1.5rem;
+    }
+    .text_2 {
+        margin-left: 17px;
+        margin-top: 4rem;
+        font-size: 12px;
+    }
+    .boton_banner {
+        position: absolute;
+        z-index: 1;
+        background-color: white;
+        width: 74px;
+        margin-top: 2rem;
+        margin-left: 8rem;
+        border-radius: 21px;
+        font-size: 13px;
+    }
+    .text-descuento p {
+        font-size: 18px;
+    }
+    .nav-color {
+        display: block;
+        text-align: center;
+        font-size: 0px;
+        padding: 1px;
+    }
+    .main-logo__item img {
+        margin-bottom: 1rem;
+        width: 129px;
+        height: 59px;
+        margin-top: 1rem;
+    }
+    ul.slick-dots {
+        top: 13rem !important;
+    }
+    .main-footer-final_text p {
+        font-size: 12px;
+    }
+    .main-footer-final_map {
+        margin-top: -33px;
+    }
+    .main-footer-final_item {
+        width: 100%;
+        height: 7rem;
+    }
+    .main-footer-final_map {
+        margin-top: -4px;
+    }
+    .main-footer-final_site a {
+        font-size: 15px;
+    }
+    .main-footer-final_map {
+        margin-top: 9px;
+    }
+    .main-galeria__img img {
+        width: 10rem;
+    }
+    .main-servicios__img img {
+        width: 100%;
+        height: 17rem;
+    }
+    .main-servicios__titlle {
+        margin-left: -64px;
+    }    
+    .main-banner__title p {
+        margin-left: 21px;
+    }
+    .text_2-conductores {
+        margin-left: 24px;
+        margin-top: 10rem;
+        font-size: 13px;
+    }
+    .text_1-conductores {
+        margin-left: 23px;
+        margin-top: 4rem;
+        font-size: 13px;
+    }
+    .main-conductores__title img {
+        width: 100%;
+        height: 14.5rem;
+    }
+    .main-conductores__descripcion p {
+        font-size: 18px;
+    }
+    .media-banner_text-reservaciones p {
+        margin-left: 7px;
+    }
+    .media-banner__img-contacto img {
+        width: 100%;
+        height: 11rem;
+    }.media-banner_text-contacto {
+        margin-top: 3rem;
+    }
+    .media-banner_text-contacto p {
+        font-size: 22px;
+    }
+    .main-contacto__img img {
+        width: 25rem;
+    }
+    .main-contacto__img img {
+        margin-left: -91px;
+    }
+    .main-contacto__grid {
+        padding: 0px 1rem;
+    }
+    .main-contacto__img img {
+        margin-left: -28px;
+    }
+    .contacto__item {
+        font-size: 19px;
+    }
+    .mapouter {
+        text-align: -webkit-right !important;
+        margin-left: -13rem !important;
+    }
+    iframe#gmap_canvas {
+        width: 325px;
+        height: 359px;
+    }
+    .contact-form {
+        margin-bottom: 5rem;
+    }
+    
+}
